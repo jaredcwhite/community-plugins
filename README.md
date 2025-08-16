@@ -36,7 +36,7 @@ Note that another way to find esbuild plugins is to search for the [`esbuild-plu
 * [esbuild-plugin-glslx](https://github.com/evanw/esbuild-plugin-glslx): A plugin that supports [`*.glslx` files](http://evanw.github.io/glslx/) including type checking of GLSL code.
 * [esbuild-plugin-handlebars](https://github.com/inqnuam/esbuild-plugin-handlebars) an esbuild plugin to handle ... handlebars!
 * [esbuild-plugin-hjson](https://github.com/ChildishGiant/esbuild-plugin-hjson) A simple plugin to allow [`*.hjson`](https://hjson.github.io/) files to be imported.
-* [esbuild-plugin-html-modules](https://github.com/whitefusionhq/esbuild-plugin-html-modules) A plugin to load HTML Modules based on [the proposed spec](https://github.com/WICG/webcomponents/blob/gh-pages/proposals/html-modules-explainer.md).
+* [esbuild-plugin-html-modules](https://codeberg.org/jaredwhite/esbuild-plugin-html-modules) A plugin to load HTML Modules based on [the proposed spec](https://github.com/WICG/webcomponents/blob/gh-pages/proposals/html-modules-explainer.md).
 * [esbuild-plugin-inline-image](https://github.com/natrim/esbuild-plugin-inline-image) A plugin that switches loader for images between file and dataurl depending on size
 * [esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker): A plugin to create inline [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) by importing `.worker.js` files.
 * [esbuild-plugin-less](https://github.com/iam-medvedev/esbuild-plugin-less): A plugin to transform LESS files to CSS files.
